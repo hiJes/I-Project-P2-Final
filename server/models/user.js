@@ -13,43 +13,49 @@ module.exports = (sequelize, DataTypes) => {
     static associate(models) {
       // define association here
       User.hasOne(models.UserProfile, {foreignKey:"UserId"})
+      User.hasMany(models.Cart, {foreignKey:"UserId"})
+      User.hasMany(models.Favorite, {foreignKey:"UserId"})
     }
   }
   User.init({
-    username: DataTypes.STRING,
-    email: {
+    email:{ 
       type: DataTypes.STRING,
       allowNull: false,
       unique: {
-        msg: "Email already exist!"
+        msg: "Email must be unique!"
       },
       validate: {
-        notEmpty: {
+        notNull: {
           msg: "Email is required!"
         },
-        notNull: {
+        notEmpty: {
           msg: "Email is required!"
         },
         isEmail: {
-          msg: "Invalid format email!"
+          msg: "Must be email format!"
         }
       }
     },
-    password: {
+    password:{ 
       type: DataTypes.STRING,
       allowNull: false,
       validate: {
-        notEmpty: {
-          msg: "Password is required!"
-        },
         notNull: {
           msg: "Password is required!"
+        },
+        notEmpty: {
+          msg: "Password is required!"
+        }, 
+        isMinCharcter(password){
+          if (password.length >= 1 && password.length < 8) {
+            throw new Error ("Minimal 8 character for your password")
+          }
         }
       }
     }
   }, {
     hooks: {
-      beforeCreate(user){
+      beforeCreate: (user) => {
         user.password = createHash(user.password)
       }
     },

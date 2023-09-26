@@ -1,0 +1,3509 @@
+[
+    {
+        "city_id": "1",
+        "name": "Aceh Barat",
+        "type": "Kabupaten",
+        "postal_code": "23681",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "2",
+        "name": "Aceh Barat Daya",
+        "type": "Kabupaten",
+        "postal_code": "23764",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "3",
+        "name": "Aceh Besar",
+        "type": "Kabupaten",
+        "postal_code": "23951",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "4",
+        "name": "Aceh Jaya",
+        "type": "Kabupaten",
+        "postal_code": "23654",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "5",
+        "name": "Aceh Selatan",
+        "type": "Kabupaten",
+        "postal_code": "23719",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "6",
+        "name": "Aceh Singkil",
+        "type": "Kabupaten",
+        "postal_code": "24785",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "7",
+        "name": "Aceh Tamiang",
+        "type": "Kabupaten",
+        "postal_code": "24476",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "8",
+        "name": "Aceh Tengah",
+        "type": "Kabupaten",
+        "postal_code": "24511",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "9",
+        "name": "Aceh Tenggara",
+        "type": "Kabupaten",
+        "postal_code": "24611",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "10",
+        "name": "Aceh Timur",
+        "type": "Kabupaten",
+        "postal_code": "24454",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "11",
+        "name": "Aceh Utara",
+        "type": "Kabupaten",
+        "postal_code": "24382",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "12",
+        "name": "Agam",
+        "type": "Kabupaten",
+        "postal_code": "26411",
+        "ProvinceId": "32"
+    },
+    {
+        "city_id": "13",
+        "name": "Alor",
+        "type": "Kabupaten",
+        "postal_code": "85811",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "14",
+        "name": "Ambon",
+        "type": "Kota",
+        "postal_code": "97222",
+        "ProvinceId": "19"
+    },
+    {
+        "city_id": "15",
+        "name": "Asahan",
+        "type": "Kabupaten",
+        "postal_code": "21214",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "16",
+        "name": "Asmat",
+        "type": "Kabupaten",
+        "postal_code": "99777",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "17",
+        "name": "Badung",
+        "type": "Kabupaten",
+        "postal_code": "80351",
+        "ProvinceId": "1"
+    },
+    {
+        "city_id": "18",
+        "name": "Balangan",
+        "type": "Kabupaten",
+        "postal_code": "71611",
+        "ProvinceId": "13"
+    },
+    {
+        "city_id": "19",
+        "name": "Balikpapan",
+        "type": "Kota",
+        "postal_code": "76111",
+        "ProvinceId": "15"
+    },
+    {
+        "city_id": "20",
+        "name": "Banda Aceh",
+        "type": "Kota",
+        "postal_code": "23238",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "21",
+        "name": "Bandar Lampung",
+        "type": "Kota",
+        "postal_code": "35139",
+        "ProvinceId": "18"
+    },
+    {
+        "city_id": "22",
+        "name": "Bandung",
+        "type": "Kabupaten",
+        "postal_code": "40311",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "23",
+        "name": "Bandung",
+        "type": "Kota",
+        "postal_code": "40111",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "24",
+        "name": "Bandung Barat",
+        "type": "Kabupaten",
+        "postal_code": "40721",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "25",
+        "name": "Banggai",
+        "type": "Kabupaten",
+        "postal_code": "94711",
+        "ProvinceId": "29"
+    },
+    {
+        "city_id": "26",
+        "name": "Banggai Kepulauan",
+        "type": "Kabupaten",
+        "postal_code": "94881",
+        "ProvinceId": "29"
+    },
+    {
+        "city_id": "27",
+        "name": "Bangka",
+        "type": "Kabupaten",
+        "postal_code": "33212",
+        "ProvinceId": "2"
+    },
+    {
+        "city_id": "28",
+        "name": "Bangka Barat",
+        "type": "Kabupaten",
+        "postal_code": "33315",
+        "ProvinceId": "2"
+    },
+    {
+        "city_id": "29",
+        "name": "Bangka Selatan",
+        "type": "Kabupaten",
+        "postal_code": "33719",
+        "ProvinceId": "2"
+    },
+    {
+        "city_id": "30",
+        "name": "Bangka Tengah",
+        "type": "Kabupaten",
+        "postal_code": "33613",
+        "ProvinceId": "2"
+    },
+    {
+        "city_id": "31",
+        "name": "Bangkalan",
+        "type": "Kabupaten",
+        "postal_code": "69118",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "32",
+        "name": "Bangli",
+        "type": "Kabupaten",
+        "postal_code": "80619",
+        "ProvinceId": "1"
+    },
+    {
+        "city_id": "33",
+        "name": "Banjar",
+        "type": "Kabupaten",
+        "postal_code": "70619",
+        "ProvinceId": "13"
+    },
+    {
+        "city_id": "34",
+        "name": "Banjar",
+        "type": "Kota",
+        "postal_code": "46311",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "35",
+        "name": "Banjarbaru",
+        "type": "Kota",
+        "postal_code": "70712",
+        "ProvinceId": "13"
+    },
+    {
+        "city_id": "36",
+        "name": "Banjarmasin",
+        "type": "Kota",
+        "postal_code": "70117",
+        "ProvinceId": "13"
+    },
+    {
+        "city_id": "37",
+        "name": "Banjarnegara",
+        "type": "Kabupaten",
+        "postal_code": "53419",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "38",
+        "name": "Bantaeng",
+        "type": "Kabupaten",
+        "postal_code": "92411",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "39",
+        "name": "Bantul",
+        "type": "Kabupaten",
+        "postal_code": "55715",
+        "ProvinceId": "5"
+    },
+    {
+        "city_id": "40",
+        "name": "Banyuasin",
+        "type": "Kabupaten",
+        "postal_code": "30911",
+        "ProvinceId": "33"
+    },
+    {
+        "city_id": "41",
+        "name": "Banyumas",
+        "type": "Kabupaten",
+        "postal_code": "53114",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "42",
+        "name": "Banyuwangi",
+        "type": "Kabupaten",
+        "postal_code": "68416",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "43",
+        "name": "Barito Kuala",
+        "type": "Kabupaten",
+        "postal_code": "70511",
+        "ProvinceId": "13"
+    },
+    {
+        "city_id": "44",
+        "name": "Barito Selatan",
+        "type": "Kabupaten",
+        "postal_code": "73711",
+        "ProvinceId": "14"
+    },
+    {
+        "city_id": "45",
+        "name": "Barito Timur",
+        "type": "Kabupaten",
+        "postal_code": "73671",
+        "ProvinceId": "14"
+    },
+    {
+        "city_id": "46",
+        "name": "Barito Utara",
+        "type": "Kabupaten",
+        "postal_code": "73881",
+        "ProvinceId": "14"
+    },
+    {
+        "city_id": "47",
+        "name": "Barru",
+        "type": "Kabupaten",
+        "postal_code": "90719",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "48",
+        "name": "Batam",
+        "type": "Kota",
+        "postal_code": "29413",
+        "ProvinceId": "17"
+    },
+    {
+        "city_id": "49",
+        "name": "Batang",
+        "type": "Kabupaten",
+        "postal_code": "51211",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "50",
+        "name": "Batang Hari",
+        "type": "Kabupaten",
+        "postal_code": "36613",
+        "ProvinceId": "8"
+    },
+    {
+        "city_id": "51",
+        "name": "Batu",
+        "type": "Kota",
+        "postal_code": "65311",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "52",
+        "name": "Batu Bara",
+        "type": "Kabupaten",
+        "postal_code": "21655",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "53",
+        "name": "Bau-Bau",
+        "type": "Kota",
+        "postal_code": "93719",
+        "ProvinceId": "30"
+    },
+    {
+        "city_id": "54",
+        "name": "Bekasi",
+        "type": "Kabupaten",
+        "postal_code": "17837",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "55",
+        "name": "Bekasi",
+        "type": "Kota",
+        "postal_code": "17121",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "56",
+        "name": "Belitung",
+        "type": "Kabupaten",
+        "postal_code": "33419",
+        "ProvinceId": "2"
+    },
+    {
+        "city_id": "57",
+        "name": "Belitung Timur",
+        "type": "Kabupaten",
+        "postal_code": "33519",
+        "ProvinceId": "2"
+    },
+    {
+        "city_id": "58",
+        "name": "Belu",
+        "type": "Kabupaten",
+        "postal_code": "85711",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "59",
+        "name": "Bener Meriah",
+        "type": "Kabupaten",
+        "postal_code": "24581",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "60",
+        "name": "Bengkalis",
+        "type": "Kabupaten",
+        "postal_code": "28719",
+        "ProvinceId": "26"
+    },
+    {
+        "city_id": "61",
+        "name": "Bengkayang",
+        "type": "Kabupaten",
+        "postal_code": "79213",
+        "ProvinceId": "12"
+    },
+    {
+        "city_id": "62",
+        "name": "Bengkulu",
+        "type": "Kota",
+        "postal_code": "38229",
+        "ProvinceId": "4"
+    },
+    {
+        "city_id": "63",
+        "name": "Bengkulu Selatan",
+        "type": "Kabupaten",
+        "postal_code": "38519",
+        "ProvinceId": "4"
+    },
+    {
+        "city_id": "64",
+        "name": "Bengkulu Tengah",
+        "type": "Kabupaten",
+        "postal_code": "38319",
+        "ProvinceId": "4"
+    },
+    {
+        "city_id": "65",
+        "name": "Bengkulu Utara",
+        "type": "Kabupaten",
+        "postal_code": "38619",
+        "ProvinceId": "4"
+    },
+    {
+        "city_id": "66",
+        "name": "Berau",
+        "type": "Kabupaten",
+        "postal_code": "77311",
+        "ProvinceId": "15"
+    },
+    {
+        "city_id": "67",
+        "name": "Biak Numfor",
+        "type": "Kabupaten",
+        "postal_code": "98119",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "68",
+        "name": "Bima",
+        "type": "Kabupaten",
+        "postal_code": "84171",
+        "ProvinceId": "22"
+    },
+    {
+        "city_id": "69",
+        "name": "Bima",
+        "type": "Kota",
+        "postal_code": "84139",
+        "ProvinceId": "22"
+    },
+    {
+        "city_id": "70",
+        "name": "Binjai",
+        "type": "Kota",
+        "postal_code": "20712",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "71",
+        "name": "Bintan",
+        "type": "Kabupaten",
+        "postal_code": "29135",
+        "ProvinceId": "17"
+    },
+    {
+        "city_id": "72",
+        "name": "Bireuen",
+        "type": "Kabupaten",
+        "postal_code": "24219",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "73",
+        "name": "Bitung",
+        "type": "Kota",
+        "postal_code": "95512",
+        "ProvinceId": "31"
+    },
+    {
+        "city_id": "74",
+        "name": "Blitar",
+        "type": "Kabupaten",
+        "postal_code": "66171",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "75",
+        "name": "Blitar",
+        "type": "Kota",
+        "postal_code": "66124",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "76",
+        "name": "Blora",
+        "type": "Kabupaten",
+        "postal_code": "58219",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "77",
+        "name": "Boalemo",
+        "type": "Kabupaten",
+        "postal_code": "96319",
+        "ProvinceId": "7"
+    },
+    {
+        "city_id": "78",
+        "name": "Bogor",
+        "type": "Kabupaten",
+        "postal_code": "16911",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "79",
+        "name": "Bogor",
+        "type": "Kota",
+        "postal_code": "16119",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "80",
+        "name": "Bojonegoro",
+        "type": "Kabupaten",
+        "postal_code": "62119",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "81",
+        "name": "Bolaang Mongondow (Bolmong)",
+        "type": "Kabupaten",
+        "postal_code": "95755",
+        "ProvinceId": "31"
+    },
+    {
+        "city_id": "82",
+        "name": "Bolaang Mongondow Selatan",
+        "type": "Kabupaten",
+        "postal_code": "95774",
+        "ProvinceId": "31"
+    },
+    {
+        "city_id": "83",
+        "name": "Bolaang Mongondow Timur",
+        "type": "Kabupaten",
+        "postal_code": "95783",
+        "ProvinceId": "31"
+    },
+    {
+        "city_id": "84",
+        "name": "Bolaang Mongondow Utara",
+        "type": "Kabupaten",
+        "postal_code": "95765",
+        "ProvinceId": "31"
+    },
+    {
+        "city_id": "85",
+        "name": "Bombana",
+        "type": "Kabupaten",
+        "postal_code": "93771",
+        "ProvinceId": "30"
+    },
+    {
+        "city_id": "86",
+        "name": "Bondowoso",
+        "type": "Kabupaten",
+        "postal_code": "68219",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "87",
+        "name": "Bone",
+        "type": "Kabupaten",
+        "postal_code": "92713",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "88",
+        "name": "Bone Bolango",
+        "type": "Kabupaten",
+        "postal_code": "96511",
+        "ProvinceId": "7"
+    },
+    {
+        "city_id": "89",
+        "name": "Bontang",
+        "type": "Kota",
+        "postal_code": "75313",
+        "ProvinceId": "15"
+    },
+    {
+        "city_id": "90",
+        "name": "Boven Digoel",
+        "type": "Kabupaten",
+        "postal_code": "99662",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "91",
+        "name": "Boyolali",
+        "type": "Kabupaten",
+        "postal_code": "57312",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "92",
+        "name": "Brebes",
+        "type": "Kabupaten",
+        "postal_code": "52212",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "93",
+        "name": "Bukittinggi",
+        "type": "Kota",
+        "postal_code": "26115",
+        "ProvinceId": "32"
+    },
+    {
+        "city_id": "94",
+        "name": "Buleleng",
+        "type": "Kabupaten",
+        "postal_code": "81111",
+        "ProvinceId": "1"
+    },
+    {
+        "city_id": "95",
+        "name": "Bulukumba",
+        "type": "Kabupaten",
+        "postal_code": "92511",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "96",
+        "name": "Bulungan (Bulongan)",
+        "type": "Kabupaten",
+        "postal_code": "77211",
+        "ProvinceId": "16"
+    },
+    {
+        "city_id": "97",
+        "name": "Bungo",
+        "type": "Kabupaten",
+        "postal_code": "37216",
+        "ProvinceId": "8"
+    },
+    {
+        "city_id": "98",
+        "name": "Buol",
+        "type": "Kabupaten",
+        "postal_code": "94564",
+        "ProvinceId": "29"
+    },
+    {
+        "city_id": "99",
+        "name": "Buru",
+        "type": "Kabupaten",
+        "postal_code": "97371",
+        "ProvinceId": "19"
+    },
+    {
+        "city_id": "100",
+        "name": "Buru Selatan",
+        "type": "Kabupaten",
+        "postal_code": "97351",
+        "ProvinceId": "19"
+    },
+    {
+        "city_id": "101",
+        "name": "Buton",
+        "type": "Kabupaten",
+        "postal_code": "93754",
+        "ProvinceId": "30"
+    },
+    {
+        "city_id": "102",
+        "name": "Buton Utara",
+        "type": "Kabupaten",
+        "postal_code": "93745",
+        "ProvinceId": "30"
+    },
+    {
+        "city_id": "103",
+        "name": "Ciamis",
+        "type": "Kabupaten",
+        "postal_code": "46211",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "104",
+        "name": "Cianjur",
+        "type": "Kabupaten",
+        "postal_code": "43217",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "105",
+        "name": "Cilacap",
+        "type": "Kabupaten",
+        "postal_code": "53211",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "106",
+        "name": "Cilegon",
+        "type": "Kota",
+        "postal_code": "42417",
+        "ProvinceId": "3"
+    },
+    {
+        "city_id": "107",
+        "name": "Cimahi",
+        "type": "Kota",
+        "postal_code": "40512",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "108",
+        "name": "Cirebon",
+        "type": "Kabupaten",
+        "postal_code": "45611",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "109",
+        "name": "Cirebon",
+        "type": "Kota",
+        "postal_code": "45116",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "110",
+        "name": "Dairi",
+        "type": "Kabupaten",
+        "postal_code": "22211",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "111",
+        "name": "Deiyai (Deliyai)",
+        "type": "Kabupaten",
+        "postal_code": "98784",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "112",
+        "name": "Deli Serdang",
+        "type": "Kabupaten",
+        "postal_code": "20511",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "113",
+        "name": "Demak",
+        "type": "Kabupaten",
+        "postal_code": "59519",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "114",
+        "name": "Denpasar",
+        "type": "Kota",
+        "postal_code": "80227",
+        "ProvinceId": "1"
+    },
+    {
+        "city_id": "115",
+        "name": "Depok",
+        "type": "Kota",
+        "postal_code": "16416",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "116",
+        "name": "Dharmasraya",
+        "type": "Kabupaten",
+        "postal_code": "27612",
+        "ProvinceId": "32"
+    },
+    {
+        "city_id": "117",
+        "name": "Dogiyai",
+        "type": "Kabupaten",
+        "postal_code": "98866",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "118",
+        "name": "Dompu",
+        "type": "Kabupaten",
+        "postal_code": "84217",
+        "ProvinceId": "22"
+    },
+    {
+        "city_id": "119",
+        "name": "Donggala",
+        "type": "Kabupaten",
+        "postal_code": "94341",
+        "ProvinceId": "29"
+    },
+    {
+        "city_id": "120",
+        "name": "Dumai",
+        "type": "Kota",
+        "postal_code": "28811",
+        "ProvinceId": "26"
+    },
+    {
+        "city_id": "121",
+        "name": "Empat Lawang",
+        "type": "Kabupaten",
+        "postal_code": "31811",
+        "ProvinceId": "33"
+    },
+    {
+        "city_id": "122",
+        "name": "Ende",
+        "type": "Kabupaten",
+        "postal_code": "86351",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "123",
+        "name": "Enrekang",
+        "type": "Kabupaten",
+        "postal_code": "91719",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "124",
+        "name": "Fakfak",
+        "type": "Kabupaten",
+        "postal_code": "98651",
+        "ProvinceId": "25"
+    },
+    {
+        "city_id": "125",
+        "name": "Flores Timur",
+        "type": "Kabupaten",
+        "postal_code": "86213",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "126",
+        "name": "Garut",
+        "type": "Kabupaten",
+        "postal_code": "44126",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "127",
+        "name": "Gayo Lues",
+        "type": "Kabupaten",
+        "postal_code": "24653",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "128",
+        "name": "Gianyar",
+        "type": "Kabupaten",
+        "postal_code": "80519",
+        "ProvinceId": "1"
+    },
+    {
+        "city_id": "129",
+        "name": "Gorontalo",
+        "type": "Kabupaten",
+        "postal_code": "96218",
+        "ProvinceId": "7"
+    },
+    {
+        "city_id": "130",
+        "name": "Gorontalo",
+        "type": "Kota",
+        "postal_code": "96115",
+        "ProvinceId": "7"
+    },
+    {
+        "city_id": "131",
+        "name": "Gorontalo Utara",
+        "type": "Kabupaten",
+        "postal_code": "96611",
+        "ProvinceId": "7"
+    },
+    {
+        "city_id": "132",
+        "name": "Gowa",
+        "type": "Kabupaten",
+        "postal_code": "92111",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "133",
+        "name": "Gresik",
+        "type": "Kabupaten",
+        "postal_code": "61115",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "134",
+        "name": "Grobogan",
+        "type": "Kabupaten",
+        "postal_code": "58111",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "135",
+        "name": "Gunung Kidul",
+        "type": "Kabupaten",
+        "postal_code": "55812",
+        "ProvinceId": "5"
+    },
+    {
+        "city_id": "136",
+        "name": "Gunung Mas",
+        "type": "Kabupaten",
+        "postal_code": "74511",
+        "ProvinceId": "14"
+    },
+    {
+        "city_id": "137",
+        "name": "Gunungsitoli",
+        "type": "Kota",
+        "postal_code": "22813",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "138",
+        "name": "Halmahera Barat",
+        "type": "Kabupaten",
+        "postal_code": "97757",
+        "ProvinceId": "20"
+    },
+    {
+        "city_id": "139",
+        "name": "Halmahera Selatan",
+        "type": "Kabupaten",
+        "postal_code": "97911",
+        "ProvinceId": "20"
+    },
+    {
+        "city_id": "140",
+        "name": "Halmahera Tengah",
+        "type": "Kabupaten",
+        "postal_code": "97853",
+        "ProvinceId": "20"
+    },
+    {
+        "city_id": "141",
+        "name": "Halmahera Timur",
+        "type": "Kabupaten",
+        "postal_code": "97862",
+        "ProvinceId": "20"
+    },
+    {
+        "city_id": "142",
+        "name": "Halmahera Utara",
+        "type": "Kabupaten",
+        "postal_code": "97762",
+        "ProvinceId": "20"
+    },
+    {
+        "city_id": "143",
+        "name": "Hulu Sungai Selatan",
+        "type": "Kabupaten",
+        "postal_code": "71212",
+        "ProvinceId": "13"
+    },
+    {
+        "city_id": "144",
+        "name": "Hulu Sungai Tengah",
+        "type": "Kabupaten",
+        "postal_code": "71313",
+        "ProvinceId": "13"
+    },
+    {
+        "city_id": "145",
+        "name": "Hulu Sungai Utara",
+        "type": "Kabupaten",
+        "postal_code": "71419",
+        "ProvinceId": "13"
+    },
+    {
+        "city_id": "146",
+        "name": "Humbang Hasundutan",
+        "type": "Kabupaten",
+        "postal_code": "22457",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "147",
+        "name": "Indragiri Hilir",
+        "type": "Kabupaten",
+        "postal_code": "29212",
+        "ProvinceId": "26"
+    },
+    {
+        "city_id": "148",
+        "name": "Indragiri Hulu",
+        "type": "Kabupaten",
+        "postal_code": "29319",
+        "ProvinceId": "26"
+    },
+    {
+        "city_id": "149",
+        "name": "Indramayu",
+        "type": "Kabupaten",
+        "postal_code": "45214",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "150",
+        "name": "Intan Jaya",
+        "type": "Kabupaten",
+        "postal_code": "98771",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "151",
+        "name": "Jakarta Barat",
+        "type": "Kota",
+        "postal_code": "11220",
+        "ProvinceId": "6"
+    },
+    {
+        "city_id": "152",
+        "name": "Jakarta Pusat",
+        "type": "Kota",
+        "postal_code": "10540",
+        "ProvinceId": "6"
+    },
+    {
+        "city_id": "153",
+        "name": "Jakarta Selatan",
+        "type": "Kota",
+        "postal_code": "12230",
+        "ProvinceId": "6"
+    },
+    {
+        "city_id": "154",
+        "name": "Jakarta Timur",
+        "type": "Kota",
+        "postal_code": "13330",
+        "ProvinceId": "6"
+    },
+    {
+        "city_id": "155",
+        "name": "Jakarta Utara",
+        "type": "Kota",
+        "postal_code": "14140",
+        "ProvinceId": "6"
+    },
+    {
+        "city_id": "156",
+        "name": "Jambi",
+        "type": "Kota",
+        "postal_code": "36111",
+        "ProvinceId": "8"
+    },
+    {
+        "city_id": "157",
+        "name": "Jayapura",
+        "type": "Kabupaten",
+        "postal_code": "99352",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "158",
+        "name": "Jayapura",
+        "type": "Kota",
+        "postal_code": "99114",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "159",
+        "name": "Jayawijaya",
+        "type": "Kabupaten",
+        "postal_code": "99511",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "160",
+        "name": "Jember",
+        "type": "Kabupaten",
+        "postal_code": "68113",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "161",
+        "name": "Jembrana",
+        "type": "Kabupaten",
+        "postal_code": "82251",
+        "ProvinceId": "1"
+    },
+    {
+        "city_id": "162",
+        "name": "Jeneponto",
+        "type": "Kabupaten",
+        "postal_code": "92319",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "163",
+        "name": "Jepara",
+        "type": "Kabupaten",
+        "postal_code": "59419",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "164",
+        "name": "Jombang",
+        "type": "Kabupaten",
+        "postal_code": "61415",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "165",
+        "name": "Kaimana",
+        "type": "Kabupaten",
+        "postal_code": "98671",
+        "ProvinceId": "25"
+    },
+    {
+        "city_id": "166",
+        "name": "Kampar",
+        "type": "Kabupaten",
+        "postal_code": "28411",
+        "ProvinceId": "26"
+    },
+    {
+        "city_id": "167",
+        "name": "Kapuas",
+        "type": "Kabupaten",
+        "postal_code": "73583",
+        "ProvinceId": "14"
+    },
+    {
+        "city_id": "168",
+        "name": "Kapuas Hulu",
+        "type": "Kabupaten",
+        "postal_code": "78719",
+        "ProvinceId": "12"
+    },
+    {
+        "city_id": "169",
+        "name": "Karanganyar",
+        "type": "Kabupaten",
+        "postal_code": "57718",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "170",
+        "name": "Karangasem",
+        "type": "Kabupaten",
+        "postal_code": "80819",
+        "ProvinceId": "1"
+    },
+    {
+        "city_id": "171",
+        "name": "Karawang",
+        "type": "Kabupaten",
+        "postal_code": "41311",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "172",
+        "name": "Karimun",
+        "type": "Kabupaten",
+        "postal_code": "29611",
+        "ProvinceId": "17"
+    },
+    {
+        "city_id": "173",
+        "name": "Karo",
+        "type": "Kabupaten",
+        "postal_code": "22119",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "174",
+        "name": "Katingan",
+        "type": "Kabupaten",
+        "postal_code": "74411",
+        "ProvinceId": "14"
+    },
+    {
+        "city_id": "175",
+        "name": "Kaur",
+        "type": "Kabupaten",
+        "postal_code": "38911",
+        "ProvinceId": "4"
+    },
+    {
+        "city_id": "176",
+        "name": "Kayong Utara",
+        "type": "Kabupaten",
+        "postal_code": "78852",
+        "ProvinceId": "12"
+    },
+    {
+        "city_id": "177",
+        "name": "Kebumen",
+        "type": "Kabupaten",
+        "postal_code": "54319",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "178",
+        "name": "Kediri",
+        "type": "Kabupaten",
+        "postal_code": "64184",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "179",
+        "name": "Kediri",
+        "type": "Kota",
+        "postal_code": "64125",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "180",
+        "name": "Keerom",
+        "type": "Kabupaten",
+        "postal_code": "99461",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "181",
+        "name": "Kendal",
+        "type": "Kabupaten",
+        "postal_code": "51314",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "182",
+        "name": "Kendari",
+        "type": "Kota",
+        "postal_code": "93126",
+        "ProvinceId": "30"
+    },
+    {
+        "city_id": "183",
+        "name": "Kepahiang",
+        "type": "Kabupaten",
+        "postal_code": "39319",
+        "ProvinceId": "4"
+    },
+    {
+        "city_id": "184",
+        "name": "Kepulauan Anambas",
+        "type": "Kabupaten",
+        "postal_code": "29991",
+        "ProvinceId": "17"
+    },
+    {
+        "city_id": "185",
+        "name": "Kepulauan Aru",
+        "type": "Kabupaten",
+        "postal_code": "97681",
+        "ProvinceId": "19"
+    },
+    {
+        "city_id": "186",
+        "name": "Kepulauan Mentawai",
+        "type": "Kabupaten",
+        "postal_code": "25771",
+        "ProvinceId": "32"
+    },
+    {
+        "city_id": "187",
+        "name": "Kepulauan Meranti",
+        "type": "Kabupaten",
+        "postal_code": "28791",
+        "ProvinceId": "26"
+    },
+    {
+        "city_id": "188",
+        "name": "Kepulauan Sangihe",
+        "type": "Kabupaten",
+        "postal_code": "95819",
+        "ProvinceId": "31"
+    },
+    {
+        "city_id": "189",
+        "name": "Kepulauan Seribu",
+        "type": "Kabupaten",
+        "postal_code": "14550",
+        "ProvinceId": "6"
+    },
+    {
+        "city_id": "190",
+        "name": "Kepulauan Siau Tagulandang Biaro (Sitaro)",
+        "type": "Kabupaten",
+        "postal_code": "95862",
+        "ProvinceId": "31"
+    },
+    {
+        "city_id": "191",
+        "name": "Kepulauan Sula",
+        "type": "Kabupaten",
+        "postal_code": "97995",
+        "ProvinceId": "20"
+    },
+    {
+        "city_id": "192",
+        "name": "Kepulauan Talaud",
+        "type": "Kabupaten",
+        "postal_code": "95885",
+        "ProvinceId": "31"
+    },
+    {
+        "city_id": "193",
+        "name": "Kepulauan Yapen (Yapen Waropen)",
+        "type": "Kabupaten",
+        "postal_code": "98211",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "194",
+        "name": "Kerinci",
+        "type": "Kabupaten",
+        "postal_code": "37167",
+        "ProvinceId": "8"
+    },
+    {
+        "city_id": "195",
+        "name": "Ketapang",
+        "type": "Kabupaten",
+        "postal_code": "78874",
+        "ProvinceId": "12"
+    },
+    {
+        "city_id": "196",
+        "name": "Klaten",
+        "type": "Kabupaten",
+        "postal_code": "57411",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "197",
+        "name": "Klungkung",
+        "type": "Kabupaten",
+        "postal_code": "80719",
+        "ProvinceId": "1"
+    },
+    {
+        "city_id": "198",
+        "name": "Kolaka",
+        "type": "Kabupaten",
+        "postal_code": "93511",
+        "ProvinceId": "30"
+    },
+    {
+        "city_id": "199",
+        "name": "Kolaka Utara",
+        "type": "Kabupaten",
+        "postal_code": "93911",
+        "ProvinceId": "30"
+    },
+    {
+        "city_id": "200",
+        "name": "Konawe",
+        "type": "Kabupaten",
+        "postal_code": "93411",
+        "ProvinceId": "30"
+    },
+    {
+        "city_id": "201",
+        "name": "Konawe Selatan",
+        "type": "Kabupaten",
+        "postal_code": "93811",
+        "ProvinceId": "30"
+    },
+    {
+        "city_id": "202",
+        "name": "Konawe Utara",
+        "type": "Kabupaten",
+        "postal_code": "93311",
+        "ProvinceId": "30"
+    },
+    {
+        "city_id": "203",
+        "name": "Kotabaru",
+        "type": "Kabupaten",
+        "postal_code": "72119",
+        "ProvinceId": "13"
+    },
+    {
+        "city_id": "204",
+        "name": "Kotamobagu",
+        "type": "Kota",
+        "postal_code": "95711",
+        "ProvinceId": "31"
+    },
+    {
+        "city_id": "205",
+        "name": "Kotawaringin Barat",
+        "type": "Kabupaten",
+        "postal_code": "74119",
+        "ProvinceId": "14"
+    },
+    {
+        "city_id": "206",
+        "name": "Kotawaringin Timur",
+        "type": "Kabupaten",
+        "postal_code": "74364",
+        "ProvinceId": "14"
+    },
+    {
+        "city_id": "207",
+        "name": "Kuantan Singingi",
+        "type": "Kabupaten",
+        "postal_code": "29519",
+        "ProvinceId": "26"
+    },
+    {
+        "city_id": "208",
+        "name": "Kubu Raya",
+        "type": "Kabupaten",
+        "postal_code": "78311",
+        "ProvinceId": "12"
+    },
+    {
+        "city_id": "209",
+        "name": "Kudus",
+        "type": "Kabupaten",
+        "postal_code": "59311",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "210",
+        "name": "Kulon Progo",
+        "type": "Kabupaten",
+        "postal_code": "55611",
+        "ProvinceId": "5"
+    },
+    {
+        "city_id": "211",
+        "name": "Kuningan",
+        "type": "Kabupaten",
+        "postal_code": "45511",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "212",
+        "name": "Kupang",
+        "type": "Kabupaten",
+        "postal_code": "85362",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "213",
+        "name": "Kupang",
+        "type": "Kota",
+        "postal_code": "85119",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "214",
+        "name": "Kutai Barat",
+        "type": "Kabupaten",
+        "postal_code": "75711",
+        "ProvinceId": "15"
+    },
+    {
+        "city_id": "215",
+        "name": "Kutai Kartanegara",
+        "type": "Kabupaten",
+        "postal_code": "75511",
+        "ProvinceId": "15"
+    },
+    {
+        "city_id": "216",
+        "name": "Kutai Timur",
+        "type": "Kabupaten",
+        "postal_code": "75611",
+        "ProvinceId": "15"
+    },
+    {
+        "city_id": "217",
+        "name": "Labuhan Batu",
+        "type": "Kabupaten",
+        "postal_code": "21412",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "218",
+        "name": "Labuhan Batu Selatan",
+        "type": "Kabupaten",
+        "postal_code": "21511",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "219",
+        "name": "Labuhan Batu Utara",
+        "type": "Kabupaten",
+        "postal_code": "21711",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "220",
+        "name": "Lahat",
+        "type": "Kabupaten",
+        "postal_code": "31419",
+        "ProvinceId": "33"
+    },
+    {
+        "city_id": "221",
+        "name": "Lamandau",
+        "type": "Kabupaten",
+        "postal_code": "74611",
+        "ProvinceId": "14"
+    },
+    {
+        "city_id": "222",
+        "name": "Lamongan",
+        "type": "Kabupaten",
+        "postal_code": "64125",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "223",
+        "name": "Lampung Barat",
+        "type": "Kabupaten",
+        "postal_code": "34814",
+        "ProvinceId": "18"
+    },
+    {
+        "city_id": "224",
+        "name": "Lampung Selatan",
+        "type": "Kabupaten",
+        "postal_code": "35511",
+        "ProvinceId": "18"
+    },
+    {
+        "city_id": "225",
+        "name": "Lampung Tengah",
+        "type": "Kabupaten",
+        "postal_code": "34212",
+        "ProvinceId": "18"
+    },
+    {
+        "city_id": "226",
+        "name": "Lampung Timur",
+        "type": "Kabupaten",
+        "postal_code": "34319",
+        "ProvinceId": "18"
+    },
+    {
+        "city_id": "227",
+        "name": "Lampung Utara",
+        "type": "Kabupaten",
+        "postal_code": "34516",
+        "ProvinceId": "18"
+    },
+    {
+        "city_id": "228",
+        "name": "Landak",
+        "type": "Kabupaten",
+        "postal_code": "78319",
+        "ProvinceId": "12"
+    },
+    {
+        "city_id": "229",
+        "name": "Langkat",
+        "type": "Kabupaten",
+        "postal_code": "20811",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "230",
+        "name": "Langsa",
+        "type": "Kota",
+        "postal_code": "24412",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "231",
+        "name": "Lanny Jaya",
+        "type": "Kabupaten",
+        "postal_code": "99531",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "232",
+        "name": "Lebak",
+        "type": "Kabupaten",
+        "postal_code": "42319",
+        "ProvinceId": "3"
+    },
+    {
+        "city_id": "233",
+        "name": "Lebong",
+        "type": "Kabupaten",
+        "postal_code": "39264",
+        "ProvinceId": "4"
+    },
+    {
+        "city_id": "234",
+        "name": "Lembata",
+        "type": "Kabupaten",
+        "postal_code": "86611",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "235",
+        "name": "Lhokseumawe",
+        "type": "Kota",
+        "postal_code": "24352",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "236",
+        "name": "Lima Puluh Koto/Kota",
+        "type": "Kabupaten",
+        "postal_code": "26671",
+        "ProvinceId": "32"
+    },
+    {
+        "city_id": "237",
+        "name": "Lingga",
+        "type": "Kabupaten",
+        "postal_code": "29811",
+        "ProvinceId": "17"
+    },
+    {
+        "city_id": "238",
+        "name": "Lombok Barat",
+        "type": "Kabupaten",
+        "postal_code": "83311",
+        "ProvinceId": "22"
+    },
+    {
+        "city_id": "239",
+        "name": "Lombok Tengah",
+        "type": "Kabupaten",
+        "postal_code": "83511",
+        "ProvinceId": "22"
+    },
+    {
+        "city_id": "240",
+        "name": "Lombok Timur",
+        "type": "Kabupaten",
+        "postal_code": "83612",
+        "ProvinceId": "22"
+    },
+    {
+        "city_id": "241",
+        "name": "Lombok Utara",
+        "type": "Kabupaten",
+        "postal_code": "83711",
+        "ProvinceId": "22"
+    },
+    {
+        "city_id": "242",
+        "name": "Lubuk Linggau",
+        "type": "Kota",
+        "postal_code": "31614",
+        "ProvinceId": "33"
+    },
+    {
+        "city_id": "243",
+        "name": "Lumajang",
+        "type": "Kabupaten",
+        "postal_code": "67319",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "244",
+        "name": "Luwu",
+        "type": "Kabupaten",
+        "postal_code": "91994",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "245",
+        "name": "Luwu Timur",
+        "type": "Kabupaten",
+        "postal_code": "92981",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "246",
+        "name": "Luwu Utara",
+        "type": "Kabupaten",
+        "postal_code": "92911",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "247",
+        "name": "Madiun",
+        "type": "Kabupaten",
+        "postal_code": "63153",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "248",
+        "name": "Madiun",
+        "type": "Kota",
+        "postal_code": "63122",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "249",
+        "name": "Magelang",
+        "type": "Kabupaten",
+        "postal_code": "56519",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "250",
+        "name": "Magelang",
+        "type": "Kota",
+        "postal_code": "56133",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "251",
+        "name": "Magetan",
+        "type": "Kabupaten",
+        "postal_code": "63314",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "252",
+        "name": "Majalengka",
+        "type": "Kabupaten",
+        "postal_code": "45412",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "253",
+        "name": "Majene",
+        "type": "Kabupaten",
+        "postal_code": "91411",
+        "ProvinceId": "27"
+    },
+    {
+        "city_id": "254",
+        "name": "Makassar",
+        "type": "Kota",
+        "postal_code": "90111",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "255",
+        "name": "Malang",
+        "type": "Kabupaten",
+        "postal_code": "65163",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "256",
+        "name": "Malang",
+        "type": "Kota",
+        "postal_code": "65112",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "257",
+        "name": "Malinau",
+        "type": "Kabupaten",
+        "postal_code": "77511",
+        "ProvinceId": "16"
+    },
+    {
+        "city_id": "258",
+        "name": "Maluku Barat Daya",
+        "type": "Kabupaten",
+        "postal_code": "97451",
+        "ProvinceId": "19"
+    },
+    {
+        "city_id": "259",
+        "name": "Maluku Tengah",
+        "type": "Kabupaten",
+        "postal_code": "97513",
+        "ProvinceId": "19"
+    },
+    {
+        "city_id": "260",
+        "name": "Maluku Tenggara",
+        "type": "Kabupaten",
+        "postal_code": "97651",
+        "ProvinceId": "19"
+    },
+    {
+        "city_id": "261",
+        "name": "Maluku Tenggara Barat",
+        "type": "Kabupaten",
+        "postal_code": "97465",
+        "ProvinceId": "19"
+    },
+    {
+        "city_id": "262",
+        "name": "Mamasa",
+        "type": "Kabupaten",
+        "postal_code": "91362",
+        "ProvinceId": "27"
+    },
+    {
+        "city_id": "263",
+        "name": "Mamberamo Raya",
+        "type": "Kabupaten",
+        "postal_code": "99381",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "264",
+        "name": "Mamberamo Tengah",
+        "type": "Kabupaten",
+        "postal_code": "99553",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "265",
+        "name": "Mamuju",
+        "type": "Kabupaten",
+        "postal_code": "91519",
+        "ProvinceId": "27"
+    },
+    {
+        "city_id": "266",
+        "name": "Mamuju Utara",
+        "type": "Kabupaten",
+        "postal_code": "91571",
+        "ProvinceId": "27"
+    },
+    {
+        "city_id": "267",
+        "name": "Manado",
+        "type": "Kota",
+        "postal_code": "95247",
+        "ProvinceId": "31"
+    },
+    {
+        "city_id": "268",
+        "name": "Mandailing Natal",
+        "type": "Kabupaten",
+        "postal_code": "22916",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "269",
+        "name": "Manggarai",
+        "type": "Kabupaten",
+        "postal_code": "86551",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "270",
+        "name": "Manggarai Barat",
+        "type": "Kabupaten",
+        "postal_code": "86711",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "271",
+        "name": "Manggarai Timur",
+        "type": "Kabupaten",
+        "postal_code": "86811",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "272",
+        "name": "Manokwari",
+        "type": "Kabupaten",
+        "postal_code": "98311",
+        "ProvinceId": "25"
+    },
+    {
+        "city_id": "273",
+        "name": "Manokwari Selatan",
+        "type": "Kabupaten",
+        "postal_code": "98355",
+        "ProvinceId": "25"
+    },
+    {
+        "city_id": "274",
+        "name": "Mappi",
+        "type": "Kabupaten",
+        "postal_code": "99853",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "275",
+        "name": "Maros",
+        "type": "Kabupaten",
+        "postal_code": "90511",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "276",
+        "name": "Mataram",
+        "type": "Kota",
+        "postal_code": "83131",
+        "ProvinceId": "22"
+    },
+    {
+        "city_id": "277",
+        "name": "Maybrat",
+        "type": "Kabupaten",
+        "postal_code": "98051",
+        "ProvinceId": "25"
+    },
+    {
+        "city_id": "278",
+        "name": "Medan",
+        "type": "Kota",
+        "postal_code": "20228",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "279",
+        "name": "Melawi",
+        "type": "Kabupaten",
+        "postal_code": "78619",
+        "ProvinceId": "12"
+    },
+    {
+        "city_id": "280",
+        "name": "Merangin",
+        "type": "Kabupaten",
+        "postal_code": "37319",
+        "ProvinceId": "8"
+    },
+    {
+        "city_id": "281",
+        "name": "Merauke",
+        "type": "Kabupaten",
+        "postal_code": "99613",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "282",
+        "name": "Mesuji",
+        "type": "Kabupaten",
+        "postal_code": "34911",
+        "ProvinceId": "18"
+    },
+    {
+        "city_id": "283",
+        "name": "Metro",
+        "type": "Kota",
+        "postal_code": "34111",
+        "ProvinceId": "18"
+    },
+    {
+        "city_id": "284",
+        "name": "Mimika",
+        "type": "Kabupaten",
+        "postal_code": "99962",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "285",
+        "name": "Minahasa",
+        "type": "Kabupaten",
+        "postal_code": "95614",
+        "ProvinceId": "31"
+    },
+    {
+        "city_id": "286",
+        "name": "Minahasa Selatan",
+        "type": "Kabupaten",
+        "postal_code": "95914",
+        "ProvinceId": "31"
+    },
+    {
+        "city_id": "287",
+        "name": "Minahasa Tenggara",
+        "type": "Kabupaten",
+        "postal_code": "95995",
+        "ProvinceId": "31"
+    },
+    {
+        "city_id": "288",
+        "name": "Minahasa Utara",
+        "type": "Kabupaten",
+        "postal_code": "95316",
+        "ProvinceId": "31"
+    },
+    {
+        "city_id": "289",
+        "name": "Mojokerto",
+        "type": "Kabupaten",
+        "postal_code": "61382",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "290",
+        "name": "Mojokerto",
+        "type": "Kota",
+        "postal_code": "61316",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "291",
+        "name": "Morowali",
+        "type": "Kabupaten",
+        "postal_code": "94911",
+        "ProvinceId": "29"
+    },
+    {
+        "city_id": "292",
+        "name": "Muara Enim",
+        "type": "Kabupaten",
+        "postal_code": "31315",
+        "ProvinceId": "33"
+    },
+    {
+        "city_id": "293",
+        "name": "Muaro Jambi",
+        "type": "Kabupaten",
+        "postal_code": "36311",
+        "ProvinceId": "8"
+    },
+    {
+        "city_id": "294",
+        "name": "Muko Muko",
+        "type": "Kabupaten",
+        "postal_code": "38715",
+        "ProvinceId": "4"
+    },
+    {
+        "city_id": "295",
+        "name": "Muna",
+        "type": "Kabupaten",
+        "postal_code": "93611",
+        "ProvinceId": "30"
+    },
+    {
+        "city_id": "296",
+        "name": "Murung Raya",
+        "type": "Kabupaten",
+        "postal_code": "73911",
+        "ProvinceId": "14"
+    },
+    {
+        "city_id": "297",
+        "name": "Musi Banyuasin",
+        "type": "Kabupaten",
+        "postal_code": "30719",
+        "ProvinceId": "33"
+    },
+    {
+        "city_id": "298",
+        "name": "Musi Rawas",
+        "type": "Kabupaten",
+        "postal_code": "31661",
+        "ProvinceId": "33"
+    },
+    {
+        "city_id": "299",
+        "name": "Nabire",
+        "type": "Kabupaten",
+        "postal_code": "98816",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "300",
+        "name": "Nagan Raya",
+        "type": "Kabupaten",
+        "postal_code": "23674",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "301",
+        "name": "Nagekeo",
+        "type": "Kabupaten",
+        "postal_code": "86911",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "302",
+        "name": "Natuna",
+        "type": "Kabupaten",
+        "postal_code": "29711",
+        "ProvinceId": "17"
+    },
+    {
+        "city_id": "303",
+        "name": "Nduga",
+        "type": "Kabupaten",
+        "postal_code": "99541",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "304",
+        "name": "Ngada",
+        "type": "Kabupaten",
+        "postal_code": "86413",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "305",
+        "name": "Nganjuk",
+        "type": "Kabupaten",
+        "postal_code": "64414",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "306",
+        "name": "Ngawi",
+        "type": "Kabupaten",
+        "postal_code": "63219",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "307",
+        "name": "Nias",
+        "type": "Kabupaten",
+        "postal_code": "22876",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "308",
+        "name": "Nias Barat",
+        "type": "Kabupaten",
+        "postal_code": "22895",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "309",
+        "name": "Nias Selatan",
+        "type": "Kabupaten",
+        "postal_code": "22865",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "310",
+        "name": "Nias Utara",
+        "type": "Kabupaten",
+        "postal_code": "22856",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "311",
+        "name": "Nunukan",
+        "type": "Kabupaten",
+        "postal_code": "77421",
+        "ProvinceId": "16"
+    },
+    {
+        "city_id": "312",
+        "name": "Ogan Ilir",
+        "type": "Kabupaten",
+        "postal_code": "30811",
+        "ProvinceId": "33"
+    },
+    {
+        "city_id": "313",
+        "name": "Ogan Komering Ilir",
+        "type": "Kabupaten",
+        "postal_code": "30618",
+        "ProvinceId": "33"
+    },
+    {
+        "city_id": "314",
+        "name": "Ogan Komering Ulu",
+        "type": "Kabupaten",
+        "postal_code": "32112",
+        "ProvinceId": "33"
+    },
+    {
+        "city_id": "315",
+        "name": "Ogan Komering Ulu Selatan",
+        "type": "Kabupaten",
+        "postal_code": "32211",
+        "ProvinceId": "33"
+    },
+    {
+        "city_id": "316",
+        "name": "Ogan Komering Ulu Timur",
+        "type": "Kabupaten",
+        "postal_code": "32312",
+        "ProvinceId": "33"
+    },
+    {
+        "city_id": "317",
+        "name": "Pacitan",
+        "type": "Kabupaten",
+        "postal_code": "63512",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "318",
+        "name": "Padang",
+        "type": "Kota",
+        "postal_code": "25112",
+        "ProvinceId": "32"
+    },
+    {
+        "city_id": "319",
+        "name": "Padang Lawas",
+        "type": "Kabupaten",
+        "postal_code": "22763",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "320",
+        "name": "Padang Lawas Utara",
+        "type": "Kabupaten",
+        "postal_code": "22753",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "321",
+        "name": "Padang Panjang",
+        "type": "Kota",
+        "postal_code": "27122",
+        "ProvinceId": "32"
+    },
+    {
+        "city_id": "322",
+        "name": "Padang Pariaman",
+        "type": "Kabupaten",
+        "postal_code": "25583",
+        "ProvinceId": "32"
+    },
+    {
+        "city_id": "323",
+        "name": "Padang Sidempuan",
+        "type": "Kota",
+        "postal_code": "22727",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "324",
+        "name": "Pagar Alam",
+        "type": "Kota",
+        "postal_code": "31512",
+        "ProvinceId": "33"
+    },
+    {
+        "city_id": "325",
+        "name": "Pakpak Bharat",
+        "type": "Kabupaten",
+        "postal_code": "22272",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "326",
+        "name": "Palangka Raya",
+        "type": "Kota",
+        "postal_code": "73112",
+        "ProvinceId": "14"
+    },
+    {
+        "city_id": "327",
+        "name": "Palembang",
+        "type": "Kota",
+        "postal_code": "30111",
+        "ProvinceId": "33"
+    },
+    {
+        "city_id": "328",
+        "name": "Palopo",
+        "type": "Kota",
+        "postal_code": "91911",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "329",
+        "name": "Palu",
+        "type": "Kota",
+        "postal_code": "94111",
+        "ProvinceId": "29"
+    },
+    {
+        "city_id": "330",
+        "name": "Pamekasan",
+        "type": "Kabupaten",
+        "postal_code": "69319",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "331",
+        "name": "Pandeglang",
+        "type": "Kabupaten",
+        "postal_code": "42212",
+        "ProvinceId": "3"
+    },
+    {
+        "city_id": "332",
+        "name": "Pangandaran",
+        "type": "Kabupaten",
+        "postal_code": "46511",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "333",
+        "name": "Pangkajene Kepulauan",
+        "type": "Kabupaten",
+        "postal_code": "90611",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "334",
+        "name": "Pangkal Pinang",
+        "type": "Kota",
+        "postal_code": "33115",
+        "ProvinceId": "2"
+    },
+    {
+        "city_id": "335",
+        "name": "Paniai",
+        "type": "Kabupaten",
+        "postal_code": "98765",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "336",
+        "name": "Parepare",
+        "type": "Kota",
+        "postal_code": "91123",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "337",
+        "name": "Pariaman",
+        "type": "Kota",
+        "postal_code": "25511",
+        "ProvinceId": "32"
+    },
+    {
+        "city_id": "338",
+        "name": "Parigi Moutong",
+        "type": "Kabupaten",
+        "postal_code": "94411",
+        "ProvinceId": "29"
+    },
+    {
+        "city_id": "339",
+        "name": "Pasaman",
+        "type": "Kabupaten",
+        "postal_code": "26318",
+        "ProvinceId": "32"
+    },
+    {
+        "city_id": "340",
+        "name": "Pasaman Barat",
+        "type": "Kabupaten",
+        "postal_code": "26511",
+        "ProvinceId": "32"
+    },
+    {
+        "city_id": "341",
+        "name": "Paser",
+        "type": "Kabupaten",
+        "postal_code": "76211",
+        "ProvinceId": "15"
+    },
+    {
+        "city_id": "342",
+        "name": "Pasuruan",
+        "type": "Kabupaten",
+        "postal_code": "67153",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "343",
+        "name": "Pasuruan",
+        "type": "Kota",
+        "postal_code": "67118",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "344",
+        "name": "Pati",
+        "type": "Kabupaten",
+        "postal_code": "59114",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "345",
+        "name": "Payakumbuh",
+        "type": "Kota",
+        "postal_code": "26213",
+        "ProvinceId": "32"
+    },
+    {
+        "city_id": "346",
+        "name": "Pegunungan Arfak",
+        "type": "Kabupaten",
+        "postal_code": "98354",
+        "ProvinceId": "25"
+    },
+    {
+        "city_id": "347",
+        "name": "Pegunungan Bintang",
+        "type": "Kabupaten",
+        "postal_code": "99573",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "348",
+        "name": "Pekalongan",
+        "type": "Kabupaten",
+        "postal_code": "51161",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "349",
+        "name": "Pekalongan",
+        "type": "Kota",
+        "postal_code": "51122",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "350",
+        "name": "Pekanbaru",
+        "type": "Kota",
+        "postal_code": "28112",
+        "ProvinceId": "26"
+    },
+    {
+        "city_id": "351",
+        "name": "Pelalawan",
+        "type": "Kabupaten",
+        "postal_code": "28311",
+        "ProvinceId": "26"
+    },
+    {
+        "city_id": "352",
+        "name": "Pemalang",
+        "type": "Kabupaten",
+        "postal_code": "52319",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "353",
+        "name": "Pematang Siantar",
+        "type": "Kota",
+        "postal_code": "21126",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "354",
+        "name": "Penajam Paser Utara",
+        "type": "Kabupaten",
+        "postal_code": "76311",
+        "ProvinceId": "15"
+    },
+    {
+        "city_id": "355",
+        "name": "Pesawaran",
+        "type": "Kabupaten",
+        "postal_code": "35312",
+        "ProvinceId": "18"
+    },
+    {
+        "city_id": "356",
+        "name": "Pesisir Barat",
+        "type": "Kabupaten",
+        "postal_code": "35974",
+        "ProvinceId": "18"
+    },
+    {
+        "city_id": "357",
+        "name": "Pesisir Selatan",
+        "type": "Kabupaten",
+        "postal_code": "25611",
+        "ProvinceId": "32"
+    },
+    {
+        "city_id": "358",
+        "name": "Pidie",
+        "type": "Kabupaten",
+        "postal_code": "24116",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "359",
+        "name": "Pidie Jaya",
+        "type": "Kabupaten",
+        "postal_code": "24186",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "360",
+        "name": "Pinrang",
+        "type": "Kabupaten",
+        "postal_code": "91251",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "361",
+        "name": "Pohuwato",
+        "type": "Kabupaten",
+        "postal_code": "96419",
+        "ProvinceId": "7"
+    },
+    {
+        "city_id": "362",
+        "name": "Polewali Mandar",
+        "type": "Kabupaten",
+        "postal_code": "91311",
+        "ProvinceId": "27"
+    },
+    {
+        "city_id": "363",
+        "name": "Ponorogo",
+        "type": "Kabupaten",
+        "postal_code": "63411",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "364",
+        "name": "Pontianak",
+        "type": "Kabupaten",
+        "postal_code": "78971",
+        "ProvinceId": "12"
+    },
+    {
+        "city_id": "365",
+        "name": "Pontianak",
+        "type": "Kota",
+        "postal_code": "78112",
+        "ProvinceId": "12"
+    },
+    {
+        "city_id": "366",
+        "name": "Poso",
+        "type": "Kabupaten",
+        "postal_code": "94615",
+        "ProvinceId": "29"
+    },
+    {
+        "city_id": "367",
+        "name": "Prabumulih",
+        "type": "Kota",
+        "postal_code": "31121",
+        "ProvinceId": "33"
+    },
+    {
+        "city_id": "368",
+        "name": "Pringsewu",
+        "type": "Kabupaten",
+        "postal_code": "35719",
+        "ProvinceId": "18"
+    },
+    {
+        "city_id": "369",
+        "name": "Probolinggo",
+        "type": "Kabupaten",
+        "postal_code": "67282",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "370",
+        "name": "Probolinggo",
+        "type": "Kota",
+        "postal_code": "67215",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "371",
+        "name": "Pulang Pisau",
+        "type": "Kabupaten",
+        "postal_code": "74811",
+        "ProvinceId": "14"
+    },
+    {
+        "city_id": "372",
+        "name": "Pulau Morotai",
+        "type": "Kabupaten",
+        "postal_code": "97771",
+        "ProvinceId": "20"
+    },
+    {
+        "city_id": "373",
+        "name": "Puncak",
+        "type": "Kabupaten",
+        "postal_code": "98981",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "374",
+        "name": "Puncak Jaya",
+        "type": "Kabupaten",
+        "postal_code": "98979",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "375",
+        "name": "Purbalingga",
+        "type": "Kabupaten",
+        "postal_code": "53312",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "376",
+        "name": "Purwakarta",
+        "type": "Kabupaten",
+        "postal_code": "41119",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "377",
+        "name": "Purworejo",
+        "type": "Kabupaten",
+        "postal_code": "54111",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "378",
+        "name": "Raja Ampat",
+        "type": "Kabupaten",
+        "postal_code": "98489",
+        "ProvinceId": "25"
+    },
+    {
+        "city_id": "379",
+        "name": "Rejang Lebong",
+        "type": "Kabupaten",
+        "postal_code": "39112",
+        "ProvinceId": "4"
+    },
+    {
+        "city_id": "380",
+        "name": "Rembang",
+        "type": "Kabupaten",
+        "postal_code": "59219",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "381",
+        "name": "Rokan Hilir",
+        "type": "Kabupaten",
+        "postal_code": "28992",
+        "ProvinceId": "26"
+    },
+    {
+        "city_id": "382",
+        "name": "Rokan Hulu",
+        "type": "Kabupaten",
+        "postal_code": "28511",
+        "ProvinceId": "26"
+    },
+    {
+        "city_id": "383",
+        "name": "Rote Ndao",
+        "type": "Kabupaten",
+        "postal_code": "85982",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "384",
+        "name": "Sabang",
+        "type": "Kota",
+        "postal_code": "23512",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "385",
+        "name": "Sabu Raijua",
+        "type": "Kabupaten",
+        "postal_code": "85391",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "386",
+        "name": "Salatiga",
+        "type": "Kota",
+        "postal_code": "50711",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "387",
+        "name": "Samarinda",
+        "type": "Kota",
+        "postal_code": "75133",
+        "ProvinceId": "15"
+    },
+    {
+        "city_id": "388",
+        "name": "Sambas",
+        "type": "Kabupaten",
+        "postal_code": "79453",
+        "ProvinceId": "12"
+    },
+    {
+        "city_id": "389",
+        "name": "Samosir",
+        "type": "Kabupaten",
+        "postal_code": "22392",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "390",
+        "name": "Sampang",
+        "type": "Kabupaten",
+        "postal_code": "69219",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "391",
+        "name": "Sanggau",
+        "type": "Kabupaten",
+        "postal_code": "78557",
+        "ProvinceId": "12"
+    },
+    {
+        "city_id": "392",
+        "name": "Sarmi",
+        "type": "Kabupaten",
+        "postal_code": "99373",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "393",
+        "name": "Sarolangun",
+        "type": "Kabupaten",
+        "postal_code": "37419",
+        "ProvinceId": "8"
+    },
+    {
+        "city_id": "394",
+        "name": "Sawah Lunto",
+        "type": "Kota",
+        "postal_code": "27416",
+        "ProvinceId": "32"
+    },
+    {
+        "city_id": "395",
+        "name": "Sekadau",
+        "type": "Kabupaten",
+        "postal_code": "79583",
+        "ProvinceId": "12"
+    },
+    {
+        "city_id": "396",
+        "name": "Selayar (Kepulauan Selayar)",
+        "type": "Kabupaten",
+        "postal_code": "92812",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "397",
+        "name": "Seluma",
+        "type": "Kabupaten",
+        "postal_code": "38811",
+        "ProvinceId": "4"
+    },
+    {
+        "city_id": "398",
+        "name": "Semarang",
+        "type": "Kabupaten",
+        "postal_code": "50511",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "399",
+        "name": "Semarang",
+        "type": "Kota",
+        "postal_code": "50135",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "400",
+        "name": "Seram Bagian Barat",
+        "type": "Kabupaten",
+        "postal_code": "97561",
+        "ProvinceId": "19"
+    },
+    {
+        "city_id": "401",
+        "name": "Seram Bagian Timur",
+        "type": "Kabupaten",
+        "postal_code": "97581",
+        "ProvinceId": "19"
+    },
+    {
+        "city_id": "402",
+        "name": "Serang",
+        "type": "Kabupaten",
+        "postal_code": "42182",
+        "ProvinceId": "3"
+    },
+    {
+        "city_id": "403",
+        "name": "Serang",
+        "type": "Kota",
+        "postal_code": "42111",
+        "ProvinceId": "3"
+    },
+    {
+        "city_id": "404",
+        "name": "Serdang Bedagai",
+        "type": "Kabupaten",
+        "postal_code": "20915",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "405",
+        "name": "Seruyan",
+        "type": "Kabupaten",
+        "postal_code": "74211",
+        "ProvinceId": "14"
+    },
+    {
+        "city_id": "406",
+        "name": "Siak",
+        "type": "Kabupaten",
+        "postal_code": "28623",
+        "ProvinceId": "26"
+    },
+    {
+        "city_id": "407",
+        "name": "Sibolga",
+        "type": "Kota",
+        "postal_code": "22522",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "408",
+        "name": "Sidenreng Rappang/Rapang",
+        "type": "Kabupaten",
+        "postal_code": "91613",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "409",
+        "name": "Sidoarjo",
+        "type": "Kabupaten",
+        "postal_code": "61219",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "410",
+        "name": "Sigi",
+        "type": "Kabupaten",
+        "postal_code": "94364",
+        "ProvinceId": "29"
+    },
+    {
+        "city_id": "411",
+        "name": "Sijunjung (Sawah Lunto Sijunjung)",
+        "type": "Kabupaten",
+        "postal_code": "27511",
+        "ProvinceId": "32"
+    },
+    {
+        "city_id": "412",
+        "name": "Sikka",
+        "type": "Kabupaten",
+        "postal_code": "86121",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "413",
+        "name": "Simalungun",
+        "type": "Kabupaten",
+        "postal_code": "21162",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "414",
+        "name": "Simeulue",
+        "type": "Kabupaten",
+        "postal_code": "23891",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "415",
+        "name": "Singkawang",
+        "type": "Kota",
+        "postal_code": "79117",
+        "ProvinceId": "12"
+    },
+    {
+        "city_id": "416",
+        "name": "Sinjai",
+        "type": "Kabupaten",
+        "postal_code": "92615",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "417",
+        "name": "Sintang",
+        "type": "Kabupaten",
+        "postal_code": "78619",
+        "ProvinceId": "12"
+    },
+    {
+        "city_id": "418",
+        "name": "Situbondo",
+        "type": "Kabupaten",
+        "postal_code": "68316",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "419",
+        "name": "Sleman",
+        "type": "Kabupaten",
+        "postal_code": "55513",
+        "ProvinceId": "5"
+    },
+    {
+        "city_id": "420",
+        "name": "Solok",
+        "type": "Kabupaten",
+        "postal_code": "27365",
+        "ProvinceId": "32"
+    },
+    {
+        "city_id": "421",
+        "name": "Solok",
+        "type": "Kota",
+        "postal_code": "27315",
+        "ProvinceId": "32"
+    },
+    {
+        "city_id": "422",
+        "name": "Solok Selatan",
+        "type": "Kabupaten",
+        "postal_code": "27779",
+        "ProvinceId": "32"
+    },
+    {
+        "city_id": "423",
+        "name": "Soppeng",
+        "type": "Kabupaten",
+        "postal_code": "90812",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "424",
+        "name": "Sorong",
+        "type": "Kabupaten",
+        "postal_code": "98431",
+        "ProvinceId": "25"
+    },
+    {
+        "city_id": "425",
+        "name": "Sorong",
+        "type": "Kota",
+        "postal_code": "98411",
+        "ProvinceId": "25"
+    },
+    {
+        "city_id": "426",
+        "name": "Sorong Selatan",
+        "type": "Kabupaten",
+        "postal_code": "98454",
+        "ProvinceId": "25"
+    },
+    {
+        "city_id": "427",
+        "name": "Sragen",
+        "type": "Kabupaten",
+        "postal_code": "57211",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "428",
+        "name": "Subang",
+        "type": "Kabupaten",
+        "postal_code": "41215",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "429",
+        "name": "Subulussalam",
+        "type": "Kota",
+        "postal_code": "24882",
+        "ProvinceId": "21"
+    },
+    {
+        "city_id": "430",
+        "name": "Sukabumi",
+        "type": "Kabupaten",
+        "postal_code": "43311",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "431",
+        "name": "Sukabumi",
+        "type": "Kota",
+        "postal_code": "43114",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "432",
+        "name": "Sukamara",
+        "type": "Kabupaten",
+        "postal_code": "74712",
+        "ProvinceId": "14"
+    },
+    {
+        "city_id": "433",
+        "name": "Sukoharjo",
+        "type": "Kabupaten",
+        "postal_code": "57514",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "434",
+        "name": "Sumba Barat",
+        "type": "Kabupaten",
+        "postal_code": "87219",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "435",
+        "name": "Sumba Barat Daya",
+        "type": "Kabupaten",
+        "postal_code": "87453",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "436",
+        "name": "Sumba Tengah",
+        "type": "Kabupaten",
+        "postal_code": "87358",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "437",
+        "name": "Sumba Timur",
+        "type": "Kabupaten",
+        "postal_code": "87112",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "438",
+        "name": "Sumbawa",
+        "type": "Kabupaten",
+        "postal_code": "84315",
+        "ProvinceId": "22"
+    },
+    {
+        "city_id": "439",
+        "name": "Sumbawa Barat",
+        "type": "Kabupaten",
+        "postal_code": "84419",
+        "ProvinceId": "22"
+    },
+    {
+        "city_id": "440",
+        "name": "Sumedang",
+        "type": "Kabupaten",
+        "postal_code": "45326",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "441",
+        "name": "Sumenep",
+        "type": "Kabupaten",
+        "postal_code": "69413",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "442",
+        "name": "Sungaipenuh",
+        "type": "Kota",
+        "postal_code": "37113",
+        "ProvinceId": "8"
+    },
+    {
+        "city_id": "443",
+        "name": "Supiori",
+        "type": "Kabupaten",
+        "postal_code": "98164",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "444",
+        "name": "Surabaya",
+        "type": "Kota",
+        "postal_code": "60119",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "445",
+        "name": "Surakarta (Solo)",
+        "type": "Kota",
+        "postal_code": "57113",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "446",
+        "name": "Tabalong",
+        "type": "Kabupaten",
+        "postal_code": "71513",
+        "ProvinceId": "13"
+    },
+    {
+        "city_id": "447",
+        "name": "Tabanan",
+        "type": "Kabupaten",
+        "postal_code": "82119",
+        "ProvinceId": "1"
+    },
+    {
+        "city_id": "448",
+        "name": "Takalar",
+        "type": "Kabupaten",
+        "postal_code": "92212",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "449",
+        "name": "Tambrauw",
+        "type": "Kabupaten",
+        "postal_code": "98475",
+        "ProvinceId": "25"
+    },
+    {
+        "city_id": "450",
+        "name": "Tana Tidung",
+        "type": "Kabupaten",
+        "postal_code": "77611",
+        "ProvinceId": "16"
+    },
+    {
+        "city_id": "451",
+        "name": "Tana Toraja",
+        "type": "Kabupaten",
+        "postal_code": "91819",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "452",
+        "name": "Tanah Bumbu",
+        "type": "Kabupaten",
+        "postal_code": "72211",
+        "ProvinceId": "13"
+    },
+    {
+        "city_id": "453",
+        "name": "Tanah Datar",
+        "type": "Kabupaten",
+        "postal_code": "27211",
+        "ProvinceId": "32"
+    },
+    {
+        "city_id": "454",
+        "name": "Tanah Laut",
+        "type": "Kabupaten",
+        "postal_code": "70811",
+        "ProvinceId": "13"
+    },
+    {
+        "city_id": "455",
+        "name": "Tangerang",
+        "type": "Kabupaten",
+        "postal_code": "15914",
+        "ProvinceId": "3"
+    },
+    {
+        "city_id": "456",
+        "name": "Tangerang",
+        "type": "Kota",
+        "postal_code": "15111",
+        "ProvinceId": "3"
+    },
+    {
+        "city_id": "457",
+        "name": "Tangerang Selatan",
+        "type": "Kota",
+        "postal_code": "15435",
+        "ProvinceId": "3"
+    },
+    {
+        "city_id": "458",
+        "name": "Tanggamus",
+        "type": "Kabupaten",
+        "postal_code": "35619",
+        "ProvinceId": "18"
+    },
+    {
+        "city_id": "459",
+        "name": "Tanjung Balai",
+        "type": "Kota",
+        "postal_code": "21321",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "460",
+        "name": "Tanjung Jabung Barat",
+        "type": "Kabupaten",
+        "postal_code": "36513",
+        "ProvinceId": "8"
+    },
+    {
+        "city_id": "461",
+        "name": "Tanjung Jabung Timur",
+        "type": "Kabupaten",
+        "postal_code": "36719",
+        "ProvinceId": "8"
+    },
+    {
+        "city_id": "462",
+        "name": "Tanjung Pinang",
+        "type": "Kota",
+        "postal_code": "29111",
+        "ProvinceId": "17"
+    },
+    {
+        "city_id": "463",
+        "name": "Tapanuli Selatan",
+        "type": "Kabupaten",
+        "postal_code": "22742",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "464",
+        "name": "Tapanuli Tengah",
+        "type": "Kabupaten",
+        "postal_code": "22611",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "465",
+        "name": "Tapanuli Utara",
+        "type": "Kabupaten",
+        "postal_code": "22414",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "466",
+        "name": "Tapin",
+        "type": "Kabupaten",
+        "postal_code": "71119",
+        "ProvinceId": "13"
+    },
+    {
+        "city_id": "467",
+        "name": "Tarakan",
+        "type": "Kota",
+        "postal_code": "77114",
+        "ProvinceId": "16"
+    },
+    {
+        "city_id": "468",
+        "name": "Tasikmalaya",
+        "type": "Kabupaten",
+        "postal_code": "46411",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "469",
+        "name": "Tasikmalaya",
+        "type": "Kota",
+        "postal_code": "46116",
+        "ProvinceId": "9"
+    },
+    {
+        "city_id": "470",
+        "name": "Tebing Tinggi",
+        "type": "Kota",
+        "postal_code": "20632",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "471",
+        "name": "Tebo",
+        "type": "Kabupaten",
+        "postal_code": "37519",
+        "ProvinceId": "8"
+    },
+    {
+        "city_id": "472",
+        "name": "Tegal",
+        "type": "Kabupaten",
+        "postal_code": "52419",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "473",
+        "name": "Tegal",
+        "type": "Kota",
+        "postal_code": "52114",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "474",
+        "name": "Teluk Bintuni",
+        "type": "Kabupaten",
+        "postal_code": "98551",
+        "ProvinceId": "25"
+    },
+    {
+        "city_id": "475",
+        "name": "Teluk Wondama",
+        "type": "Kabupaten",
+        "postal_code": "98591",
+        "ProvinceId": "25"
+    },
+    {
+        "city_id": "476",
+        "name": "Temanggung",
+        "type": "Kabupaten",
+        "postal_code": "56212",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "477",
+        "name": "Ternate",
+        "type": "Kota",
+        "postal_code": "97714",
+        "ProvinceId": "20"
+    },
+    {
+        "city_id": "478",
+        "name": "Tidore Kepulauan",
+        "type": "Kota",
+        "postal_code": "97815",
+        "ProvinceId": "20"
+    },
+    {
+        "city_id": "479",
+        "name": "Timor Tengah Selatan",
+        "type": "Kabupaten",
+        "postal_code": "85562",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "480",
+        "name": "Timor Tengah Utara",
+        "type": "Kabupaten",
+        "postal_code": "85612",
+        "ProvinceId": "23"
+    },
+    {
+        "city_id": "481",
+        "name": "Toba Samosir",
+        "type": "Kabupaten",
+        "postal_code": "22316",
+        "ProvinceId": "34"
+    },
+    {
+        "city_id": "482",
+        "name": "Tojo Una-Una",
+        "type": "Kabupaten",
+        "postal_code": "94683",
+        "ProvinceId": "29"
+    },
+    {
+        "city_id": "483",
+        "name": "Toli-Toli",
+        "type": "Kabupaten",
+        "postal_code": "94542",
+        "ProvinceId": "29"
+    },
+    {
+        "city_id": "484",
+        "name": "Tolikara",
+        "type": "Kabupaten",
+        "postal_code": "99411",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "485",
+        "name": "Tomohon",
+        "type": "Kota",
+        "postal_code": "95416",
+        "ProvinceId": "31"
+    },
+    {
+        "city_id": "486",
+        "name": "Toraja Utara",
+        "type": "Kabupaten",
+        "postal_code": "91831",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "487",
+        "name": "Trenggalek",
+        "type": "Kabupaten",
+        "postal_code": "66312",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "488",
+        "name": "Tual",
+        "type": "Kota",
+        "postal_code": "97612",
+        "ProvinceId": "19"
+    },
+    {
+        "city_id": "489",
+        "name": "Tuban",
+        "type": "Kabupaten",
+        "postal_code": "62319",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "490",
+        "name": "Tulang Bawang",
+        "type": "Kabupaten",
+        "postal_code": "34613",
+        "ProvinceId": "18"
+    },
+    {
+        "city_id": "491",
+        "name": "Tulang Bawang Barat",
+        "type": "Kabupaten",
+        "postal_code": "34419",
+        "ProvinceId": "18"
+    },
+    {
+        "city_id": "492",
+        "name": "Tulungagung",
+        "type": "Kabupaten",
+        "postal_code": "66212",
+        "ProvinceId": "11"
+    },
+    {
+        "city_id": "493",
+        "name": "Wajo",
+        "type": "Kabupaten",
+        "postal_code": "90911",
+        "ProvinceId": "28"
+    },
+    {
+        "city_id": "494",
+        "name": "Wakatobi",
+        "type": "Kabupaten",
+        "postal_code": "93791",
+        "ProvinceId": "30"
+    },
+    {
+        "city_id": "495",
+        "name": "Waropen",
+        "type": "Kabupaten",
+        "postal_code": "98269",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "496",
+        "name": "Way Kanan",
+        "type": "Kabupaten",
+        "postal_code": "34711",
+        "ProvinceId": "18"
+    },
+    {
+        "city_id": "497",
+        "name": "Wonogiri",
+        "type": "Kabupaten",
+        "postal_code": "57619",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "498",
+        "name": "Wonosobo",
+        "type": "Kabupaten",
+        "postal_code": "56311",
+        "ProvinceId": "10"
+    },
+    {
+        "city_id": "499",
+        "name": "Yahukimo",
+        "type": "Kabupaten",
+        "postal_code": "99041",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "500",
+        "name": "Yalimo",
+        "type": "Kabupaten",
+        "postal_code": "99481",
+        "ProvinceId": "24"
+    },
+    {
+        "city_id": "501",
+        "name": "Yogyakarta",
+        "type": "Kota",
+        "postal_code": "55111",
+        "ProvinceId": "5"
+    }
+]
